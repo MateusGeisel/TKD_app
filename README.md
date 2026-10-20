@@ -1,6 +1,6 @@
 # 🥋 TKD Manager
 
-Aplicação mobile desenvolvida em **Flutter** voltada para a gestão de atletas e controlo de combates de **Taekwondo (TKD)**.
+Aplicação mobile desenvolvida em **Flutter** voltada para a gestão de atletas e controle de combates de **Taekwondo (TKD)**.
 
 ---
 
